@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react ,JavaScript and more**
 
-- 📫 How to reach me **adityasen.developer@gmail.com**
+- 📫 How to reach me **developer.adityasen@gmail.com**
 
 - ⚡ Fun fact **i think**
 

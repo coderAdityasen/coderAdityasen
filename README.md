@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya sen</h1>
 <h3 align="center">A passionate frontend developer from Indore</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderadityasen" alt="coderadityasen" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS , NodeJS , ExpressJS , MongoDB , MySQL**
 
 - 💬 Ask me about **react ,JavaScript and more**

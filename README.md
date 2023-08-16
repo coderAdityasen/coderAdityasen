@@ -11,7 +11,3 @@
 
 <h1>Most Used Languages</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderadityasen&show_icons=true&locale=en&layout=compact" alt="coderadityasen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderadityasen&show_icons=true&locale=en" alt="coderadityasen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderadityasen&" alt="coderadityasen" /></p>

@@ -1,60 +1,15 @@
-# Hi 👋, I'm Aditya Sen
 
-### MERN stack developer • Problem-solver • Lifelong learner
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityaasen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sen-326569241) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/adityasen1805) 
 
-I'm a passionate full-stack developer from Indore who loves building clean, accessible, and performant web applications using the MERN stack. I enjoy turning product ideas into delightful user experiences and reliable backend services.
-
----
-
-## 🔭 What I build
-- Scalable web applications and dashboards
-- RESTful APIs and real-time services
-- Responsive, accessible user interfaces with React
-- End-to-end features from database design to deployment
-
-If you want to see my work, check out my repositories on GitHub: https://github.com/coderAdityasen
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=coderadityasen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=coderadityasen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=coderadityasen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=coderadityasen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-- Frontend: React, Redux, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap
-- Backend: Node.js, Express
-- Database: MongoDB, Mongoose
-- DevOps & Tools: Git, GitHub, Docker, Postman, VS Code
-- Languages: JavaScript (ES6+), TypeScript (learning)
-- Others: REST APIs, JWT auth, WebSockets, npm/yarn
-
----
-
-## 🚀 Selected Projects
-(Repositories are listed on my GitHub — click through to explore code, live demos, and README details.)
-
-- Project ideas you might find here:
-  - E-commerce store (MERN): product listing, cart, orders, admin panel
-  - Real-time chat app (Socket.io + React)
-  - Personal portfolio with blog (Next.js + Markdown)
-
----
-
-## 🤝 Open to
-- Collaboration on meaningful open-source projects
-- Freelance or full-time roles involving React/Node/Mongo
-- Mentoring and learning opportunities
-
----
-
-## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/aditya-sen-326569241
-- GitHub: https://github.com/coderAdityasen
-
----
-
-## 📈 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderAdityasen&show_icons=true&theme=radical)
-
-
----
-
-Thanks for stopping by — feel free to say hi 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
